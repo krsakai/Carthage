@@ -1,0 +1,9 @@
+{
+  "commitish" : "98f89883509d27229d60ff3f2ececdd82a46d674",
+  "iOS" : [
+    {
+      "name" : "SwiftTask",
+      "hash" : "be4cb880084bcd51d4e1fe5e607268215f6ddbd19fdd4ff48f2bac5a5b3caafa"
+    }
+  ]
+}

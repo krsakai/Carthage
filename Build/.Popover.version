@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.4",
+  "iOS" : [
+    {
+      "name" : "Popover",
+      "hash" : "7ede6f69e21550af1a4144036425bf4bd49e05e6d3a4926f1da21dd28c9d2044"
+    }
+  ]
+}

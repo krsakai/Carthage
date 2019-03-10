@@ -1,0 +1,9 @@
+{
+  "commitish" : "3.1.0",
+  "iOS" : [
+    {
+      "name" : "DrawerController",
+      "hash" : "64683e7cdfa9d80ec7bdf435e6d534f8f35d39b7019f6cdebbd920631cad00c9"
+    }
+  ]
+}

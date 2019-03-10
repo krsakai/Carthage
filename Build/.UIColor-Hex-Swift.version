@@ -1,0 +1,9 @@
+{
+  "commitish" : "3.0.2",
+  "iOS" : [
+    {
+      "name" : "HEXColor",
+      "hash" : "e9bbcd71f5c8605886b69910bd419d03f9669018e7fa3cecf1ce2775b5b3fb4a"
+    }
+  ]
+}
